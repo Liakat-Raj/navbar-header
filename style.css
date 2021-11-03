@@ -1,0 +1,18 @@
+.text-center{
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+
+.text-center h1{
+    font-size: 70px;
+    
+}
+
+.card-group img{
+    height: 250px;
+    width: 400px;
+    padding-right: 50px;
+}
